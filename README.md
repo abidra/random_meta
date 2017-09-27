@@ -9,16 +9,16 @@ Script to generate random meta in head
 ## Deploy to Server
 Follow instruction below to Deploy on Server
 
-###VPS
+### VPS
 - git clone https://github.com/abidra/random_meta.git
 - cd random_meta
 - composer install
 
-###Shared hosting
+### Shared hosting
 - git clone https://github.com/abidra/random_meta.git on local
 - cd random_meta
 - composer install
 - Upload all files inside folder random_meta to your /public_html
 
-##Demo
+## Demo
 Soon!
